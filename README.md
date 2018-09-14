@@ -19,5 +19,5 @@ gitcc alexdcox
 
 ### Fetch only repositories for a given language
 ```
-gitcc alexdcox -l go
+gitcc -l go alexdcox
 ```
